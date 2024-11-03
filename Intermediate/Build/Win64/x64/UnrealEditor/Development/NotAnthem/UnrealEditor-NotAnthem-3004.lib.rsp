@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NotAnthem-3004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\NotAnthemEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\UnrealEditor\Development\NotAnthem\CharacterBase.gen.cpp.obj"
+"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\UnrealEditor\Development\NotAnthem\NotAnthem.init.gen.cpp.obj"
+"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\UnrealEditor\Development\NotAnthem\NotAnthemGameModeBase.gen.cpp.obj"
+"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\UnrealEditor\Development\NotAnthem\CharacterBase.cpp.obj"
+"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\UnrealEditor\Development\NotAnthem\NotAnthem.cpp.obj"
+"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\UnrealEditor\Development\NotAnthem\NotAnthemGameModeBase.cpp.obj"
+"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\UnrealEditor\Development\NotAnthem\Default.rc2.res"
+/OUT:"C:\Users\axon5\Documents\Unreal Projects\Udemy\NotAnthem\Intermediate\Build\Win64\x64\UnrealEditor\Development\NotAnthem\UnrealEditor-NotAnthem-3004.lib"

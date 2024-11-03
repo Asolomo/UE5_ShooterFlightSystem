@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\axon5\\documents\\unreal projects\\udemy\\notanthem\\source\\notanthem\\notanthemgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\axon5\\documents\\unreal projects\\udemy\\notanthem\\intermediate\\build\\win64\\x64\\notanthemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\axon5\\documents\\unreal projects\\udemy\\notanthem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\notanthem\\definitions.notanthem.h",
+            "c:\\users\\axon5\\documents\\unreal projects\\udemy\\notanthem\\source\\notanthem\\notanthemgamemodebase.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\axon5\\documents\\unreal projects\\udemy\\notanthem\\intermediate\\build\\win64\\unrealeditor\\inc\\notanthem\\uht\\notanthemgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
